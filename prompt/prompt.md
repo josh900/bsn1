@@ -8,3 +8,9 @@ create me all the whole files I need to host my app, and a step by step guide
 I will host the files on s3 publicly
 
 search the web
+
+
+
+
+
+ok, that works. however the cache or browser storage does not persist over a reboot like a normal browser would. and we also need to ensure we have any common browser permissions applied. 
