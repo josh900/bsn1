@@ -1,0 +1,7 @@
+{
+  "app_name": "Web Player App",
+  "app_key": "web-player-app",
+  "version": "1.0.0",
+  "resolution": "1920x1080",
+  "image_path": "icon.png"
+}
